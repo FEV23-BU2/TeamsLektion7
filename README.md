@@ -30,3 +30,7 @@ Baserat på vilken information som behövs.
 # Fråga
 
 Kan du visa CRUD för att spara bilder/filer?
+
+# Svar
+
+Se "SchoolSystem" projektet för ett exempel på uppladdning och nedladdning av filer.
